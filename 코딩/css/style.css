@@ -1,0 +1,25 @@
+"euc-kr";
+
+/*Reset*/
+body {margin:0px;	padding:0px; font-size:12px;	line-height:150%;	font-family:"µ¸¿ò", Dotum, sans-serif,verdana;	color:#585858;}
+div, th, td, select, dl, dt, dd, form {font-size:12px; line-height:130%; font-family:µ¸¿ò,Dotum, sans-serif; color:#585858;}
+table{border-collapse:collapse; padding:0px; margin:0px; }
+td{word-break:break-all; }
+hr{display:none; }
+ul, ol, dl{list-style:none; padding:0px; margin:0px; }
+li img { vertical-align: top;	/* for IE imge margin */ }
+img{line-height:0px; border:0px; padding:0px; margin:0px; }
+a:link, a:visited, a:active {	color: #666666;	text-decoration: none;}
+a:hover {	color: #FE8113;	text-decoration:none;}
+img{ border:none; line-height:0 em;}
+
+.float_left {float:left;}
+.float_right {float:left;}
+
+table{text-align:left}
+td{word-break:break-all}
+
+.t01{font-size:15px;font-family:Dotum,Helvetica,AppleGothic,Sans-serif;color:#FFFFFF;font-weight:bold}
+.b01{font-size:11px;font-family:Dotum,Helvetica,AppleGothic,Sans-serif;color:#A9BCD7;}
+
+.form1  {FONT-FAMILY: µ¸¿ò, µ¸¿òÃ¼verdana; font-size:12px; border:1px solid #DBDBDB; background-color:#F6F6F6; height:20px; padding-top:3px;}
